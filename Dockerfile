@@ -1,1 +1,1 @@
-FROM chmez/portfolio:latest
+FROM chmez/projects:portfolio
